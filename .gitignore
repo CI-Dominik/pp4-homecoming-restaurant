@@ -1,0 +1,6 @@
+env.py
+__pycache__/
+*.log
+*.pid
+*.swp
+*.swo
