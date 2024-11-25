@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'allauth',
     'allauth.account',
+    'main',
 ]
 
 SITE_ID = 1
